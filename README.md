@@ -33,7 +33,7 @@ The main features included in this application are:
 
 <center>
 
-![Use Cases](sky-call/sky-call-app/documentation/user-cases.jpg)
+![Use Cases](sky-call-app/documentation/user-cases.jpg)
 
 </center>
 
