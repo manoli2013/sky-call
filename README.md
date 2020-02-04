@@ -33,7 +33,7 @@ The main features included in this application are:
 
 <center>
 
-![Use Cases](../sky-call/sky-call-app/documentation/user-cases.jpg)
+![Use Cases](sky-call/sky-call-app/documentation/user-cases.jpg)
 
 </center>
 
@@ -41,7 +41,7 @@ The main features included in this application are:
 
 ### Workflow
 
-![Agent Workflow](../../../../agent.jpg)
+![Agent Workflow](sky-call/sky-call-app/documentation/agent.jpg)
 
 ![Admin Workflow](../sky-call/sky-call-app/documentation/admin.jpg)
 
