@@ -14,7 +14,7 @@ This application facilitates and speeds up the development of the calls, as well
 
 ## Functional Description
 
-The main features included in this application are:
+The main features included in this application are the following:
 
 1. Agent user can:
 
