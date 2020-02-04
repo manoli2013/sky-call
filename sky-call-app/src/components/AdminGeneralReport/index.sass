@@ -1,0 +1,37 @@
+@import ../config
+@import ../flex-row
+@import ../text-center
+@import ../flex-column
+@import ../link
+
+.report
+    
+    @extend %flex-column
+
+    &__title
+        @extend %text-center
+        color: $report-title-color 
+        text-shadow: $report-title-shadow
+        margin-bottom: 2rem
+
+    &__results
+        padding-top: 2rem
+        text-align: center
+        background-color: $box-info-background
+
+    &__back
+        @extend %link
+    
+.field
+    @extend %flex-row
+    margin-bottom: 1.3rem
+    text-align: left
+
+    &__title
+        width: 40%
+
+    &__subtitle
+        width: 30%
+        text-align: right
+        font-weight: bold
+
