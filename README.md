@@ -33,7 +33,7 @@ The main features included in this application are:
 
 <center>
 
-![Use Cases](user-cases.jpg)
+![Use Cases](../sky-call/sky-call-app/documentation/user-cases.jpg)
 
 </center>
 
@@ -41,20 +41,20 @@ The main features included in this application are:
 
 ### Workflow
 
-![Agent Workflow](agent.jpg)
+![Agent Workflow](../sky-call/sky-call-app/documentation/agent.jpg)
 
-![Admin Workflow](admin.jpg)
+![Admin Workflow](../sky-call/sky-call-app/documentation/admin.jpg)
 
 ### Blocks
-![Blocks](Blocks.jpg)
+![Blocks](../sky-call/sky-call-app/documentation/Blocks.jpg)
 
 ### Components
 
-![Components](components.jpg)
+![Components](../sky-call/sky-call-app/documentation/components.jpg)
 
 ### Data Model
 
-![data-model](data-model.jpg)
+![data-model](../sky-call/sky-call-app/documentation/data-model.jpg)
 
 ## Installation
 
@@ -63,12 +63,14 @@ To install this project go to [SkyCall](https://github.com/manoli2013/skycall.gi
 
 ## TO DO
 
-1. Agent user can:
+Improve search inputs
+
+1. Agent should:
 
     - work in team, sharing data 
     - connect call to switchboard
 
-2. Admin user can:
+2. Admin should:
 
     - see further detail reports
     - chat with users
