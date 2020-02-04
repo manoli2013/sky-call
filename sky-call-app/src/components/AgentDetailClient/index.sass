@@ -1,0 +1,106 @@
+@import ../config
+@import ../flex-column
+@import ../flex-row
+@import ../form
+@import ../box-info
+@import ../box-info-list
+@import ../button
+@import ../input-field
+@import ../text-center
+    
+.client-detail
+    @extend %flex-column
+    padding: 0
+    
+
+    &__title
+        font-size: 1.2rem
+        margin-bottom: 0.5rem
+        margin-top: 0.5rem
+
+    &__form
+        @extend %form
+        width: 100%
+       
+    &__info
+        @extend %flex-column
+        @extend %box-info
+        width: 100%
+        color: #ffffff
+       
+    &__subtitles
+        text-align: center
+        margin-bottom: 1.5rem
+        margin-top: .8rem
+        font-size: 1.4rem
+        text-shadow: $shadow
+    
+    &__calls
+        list-style: square
+        width: 100%
+        color: $box-info-color
+        font-size: 1.2rem
+
+    &__call-buttons
+        @extend %flex-column
+    
+    &__visits
+        list-style: square
+        width: 100%
+        color: $box-info-color
+        font-size: 1.2rem
+
+    &__start
+        @extend %button
+        background-color: black
+        @extend %flex-row
+        color: #ffffff
+        margin-bottom: 0.9rem
+        font-weight: bold
+        
+    
+    &__stop
+        @extend %button
+        @extend %flex-row
+        background-color: tomato
+        color: #ffffff
+        font-weight: bold
+        display: block
+        
+        margin-bottom: 0.9rem
+    
+    &__stop-form
+        @extend %flex-row
+        background-color: yellow
+    
+    &__result-label
+        font-weight: bold
+        
+    &__result-form
+        width: 100%
+        
+        @extend %flex-row
+        @extend %text-center
+        margin-bottom: 1.5rem
+    &__call-result
+        @extend %text-center
+        width: 30%
+        margin-left: 1.5rem
+    
+    &__started
+        background-color: tomato
+        color: #ffffff
+    &__input
+        width: 80%
+        margin: 0 auto
+        text-align: center
+        font-size: 1.2rem
+    &__submit
+    
+        @extend %button
+        
+    &__link
+        text-decoration: none
+
+
+    
