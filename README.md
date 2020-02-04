@@ -41,7 +41,7 @@ The main features included in this application are:
 
 ### Workflow
 
-![Agent Workflow](../sky-call/sky-call-app/documentation/agent.jpg)
+![Agent Workflow](../../../../agent.jpg)
 
 ![Admin Workflow](../sky-call/sky-call-app/documentation/admin.jpg)
 
