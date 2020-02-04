@@ -41,20 +41,21 @@ The main features included in this application are:
 
 ### Workflow
 
-![Agent Workflow](sky-call/sky-call-app/documentation/agent.jpg)
 
-![Admin Workflow](../sky-call/sky-call-app/documentation/admin.jpg)
+![Agent Workflow](sky-call-app/documentation/agent.jpg)
+
+![Admin Workflow](sky-call-app/documentation/admin.jpg)
 
 ### Blocks
-![Blocks](../sky-call/sky-call-app/documentation/Blocks.jpg)
+![Blocks](sky-call-app/documentation/Blocks.jpg)
 
 ### Components
 
-![Components](../sky-call/sky-call-app/documentation/components.jpg)
+![Components](sky-call-app/documentation/components.jpg)
 
 ### Data Model
 
-![data-model](../sky-call/sky-call-app/documentation/data-model.jpg)
+![data-model](sky-call-app/documentation/data-model.jpg)
 
 ## Installation
 
