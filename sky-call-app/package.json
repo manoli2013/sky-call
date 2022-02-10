@@ -37,7 +37,7 @@
   "devDependencies": {
     "jest": "^24.9.0",
     "jsonwebtoken": "^8.5.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "sky-call-data": "file:../sky-call-data"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
